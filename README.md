@@ -26,3 +26,7 @@ The goal of this assignment is to understand what factors make a car more or les
 - Odometer readings affect the price.
 - Vehicle condition and drive type has an effect on the resale value.
 - Manufacturer and transmission play an important role in suggesting the price of the Vehicle.
+
+## Jupyter Notebook Link
+- https://github.com/vijesh-mlai/MLAI_Mod_11/blob/main/prompt_II.ipynb
+
